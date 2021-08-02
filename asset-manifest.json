@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/toknproject/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/toknproject/static/js/main.4623a9df.chunk.js",
-    "main.js.map": "/toknproject/static/js/main.4623a9df.chunk.js.map",
-    "runtime-main.js": "/toknproject/static/js/runtime-main.3b2eb3c6.js",
-    "runtime-main.js.map": "/toknproject/static/js/runtime-main.3b2eb3c6.js.map",
+    "main.js": "/toknproject/static/js/main.a528766d.chunk.js",
+    "main.js.map": "/toknproject/static/js/main.a528766d.chunk.js.map",
+    "runtime-main.js": "/toknproject/static/js/runtime-main.62688453.js",
+    "runtime-main.js.map": "/toknproject/static/js/runtime-main.62688453.js.map",
     "static/js/2.45756b24.chunk.js": "/toknproject/static/js/2.45756b24.chunk.js",
     "static/js/2.45756b24.chunk.js.map": "/toknproject/static/js/2.45756b24.chunk.js.map",
-    "static/js/3.50a0fec0.chunk.js": "/toknproject/static/js/3.50a0fec0.chunk.js",
-    "static/js/3.50a0fec0.chunk.js.map": "/toknproject/static/js/3.50a0fec0.chunk.js.map",
+    "static/js/3.65df0623.chunk.js": "/toknproject/static/js/3.65df0623.chunk.js",
+    "static/js/3.65df0623.chunk.js.map": "/toknproject/static/js/3.65df0623.chunk.js.map",
     "index.html": "/toknproject/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/toknproject/static/css/main.8c8b27cf.chunk.css.map",
     "static/js/2.45756b24.chunk.js.LICENSE.txt": "/toknproject/static/js/2.45756b24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b2eb3c6.js",
+    "static/js/runtime-main.62688453.js",
     "static/js/2.45756b24.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.4623a9df.chunk.js"
+    "static/js/main.a528766d.chunk.js"
   ]
 }
