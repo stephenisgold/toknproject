@@ -1,3 +1,5 @@
+const { SET_EMAIL, SET_IS_LOGGED_IN } = require('../actions/types');
+
 const INITIAL_STATE = {
   email: '',
   isLoggedIn: false
@@ -5,12 +7,12 @@ const INITIAL_STATE = {
 
 const userReducer = (state = INITIAL_STATE, action) => {
   switch (action.type) {
-    case 'SET_EMAIL':
+    case SET_EMAIL:
       return {
         ...state,
         email: action.email
       }
-    case 'SET_IS_LOGGED_IN':
+    case SET_IS_LOGGED_IN:
       if (state.email !== '') {
         return {
           ...state,
